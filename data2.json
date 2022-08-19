@@ -1,0 +1,13 @@
+{
+    "name" : "azbar",
+    "lastname" : "ali",
+    "phone": 12334678,
+    "age" : 45,
+    "semester" : "cpism",
+    "color" : "red",
+    "email" : "hasninalikhan@gmail.com",
+    "address" : "allha wala town", 
+    "city" : "karachi",
+    "country" : "pakistan"
+
+}
